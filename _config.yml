@@ -5,3 +5,7 @@ description: Ivan's Website
 colors:
     gradient_left: "#ff0090"
     gradient_right: "#00bbff"
+    header: "#fff"
+    android_theme: "#000" # this default to gradient_color
+    link: "#1e6bb8" # this default to gradient_color
+    section_title: "#155799" # this default to gradient_color
