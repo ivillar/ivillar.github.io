@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 remote_theme: tuur29/pages-themes-cayman
 title: Ivan Villa-Renteria
 description: Ivan's Website
+colors:
+    gradient_left: "#ff0090"
+    gradient_right: "#00bbff"
